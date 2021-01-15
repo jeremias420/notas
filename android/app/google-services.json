@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104593079783",
+    "project_id": "misnotas-ab302",
+    "storage_bucket": "misnotas-ab302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104593079783:android:83d9b6a9351967b7d61142",
+        "android_client_info": {
+          "package_name": "com.example.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104593079783-jofib481brfuobbpn99l81cupfe0jaoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWRN_AdS-EiY_f3KhRvwSsYbtc0cG4Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104593079783-jofib481brfuobbpn99l81cupfe0jaoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
